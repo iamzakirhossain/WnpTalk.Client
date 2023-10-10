@@ -1,0 +1,22 @@
+﻿global using System.ComponentModel;
+global using System.Runtime.CompilerServices;
+global using System.Text;
+global using System.Windows.Input;
+global using WnpTalk.Client.Services.Authenticate;
+global using Newtonsoft.Json;
+global using ServiceProvider = WnpTalk.Client.Services.ServiceProvider;
+global using WnpTalk.Client.Helpers;
+global using System.Collections.ObjectModel;
+global using WnpTalk.Client.Models;
+global using WnpTalk.Client.Services.ListChat;
+global using System.Web;
+global using WnpTalk.Client.Pages;
+global using WnpTalk.Client.ViewModels;
+global using WnpTalk.Client.Services.Message;
+global using Microsoft.AspNetCore.SignalR.Client;
+global using WnpTalk.Client.Services.ChatHub;
+global using System.Globalization;
+global using System.Net.Security;
+global using Microsoft.Extensions.Logging;
+global using WnpTalk.Client.Services.ListRoomChat;
+
